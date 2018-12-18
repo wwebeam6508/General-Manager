@@ -1,0 +1,3 @@
+rootProject.name = 'GeneralManagerPBD'
+
+include ':app'
