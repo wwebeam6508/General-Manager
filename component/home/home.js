@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 import {StyleSheet} from 'react-native';
 import { Container, Content, Title, Header } from 'native-base';
 
-import MenuRow from '../../helper/menurow.js';
+import MenuRow from './menurow.js';
 const item = [
     {
         name:"Humans",
